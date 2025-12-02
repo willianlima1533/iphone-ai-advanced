@@ -1,0 +1,13 @@
+# Ignorar ambiente Python
+.venv/
+*.pyc
+__pycache__/
+
+# Logs
+painel.log
+
+# Node modules
+node_modules/
+
+# Arquivos temporários do sistema
+.DS_Store

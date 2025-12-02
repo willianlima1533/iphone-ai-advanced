@@ -1,9 +1,0 @@
-nohup: ignorando entrada
-npm error code ENOENT
-npm error syscall open
-npm error path /home/oem/iphone-ai-advanced/package.json
-npm error errno -2
-npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/home/oem/iphone-ai-advanced/package.json'
-npm error enoent This is related to npm not being able to find a file.
-npm error enoent
-npm error A complete log of this run can be found in: /home/oem/.npm/_logs/2025-12-02T02_35_49_091Z-debug-0.log
