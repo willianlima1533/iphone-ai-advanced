@@ -1,13 +1,13 @@
-# Ignorar ambiente Python
-.venv/
-*.pyc
+# Python
 __pycache__/
+*.pyc
+.venv/
 
-# Logs
+# Node
+node_modules/
+package-lock.json
 painel.log
 
-# Node modules
-node_modules/
-
-# Arquivos temporários do sistema
+# Sistema
 .DS_Store
+
